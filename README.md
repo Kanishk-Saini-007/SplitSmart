@@ -1,6 +1,6 @@
 # SplitSmart ↗
 
-[Open live app](https://kanishksaini-007.github.io/SplitSmart/)
+[Open live app](https://kanishk-saini-007.github.io/SplitSmart/)
 
 **Less math. More memories.** A small, private expense splitter for dinners, trips and everything friends share.
 
